@@ -1,0 +1,1 @@
+{"name":"Local: adn","url":"d:\\C++\\TRAINING CAMP UTEC 2024\\Problemas\\adn.cpp","tests":[{"id":1723434221223,"input":"3\ncccaactgaa\ngtactcgggg\natcg","output":"gggttgactt\t\ncatgagcccc\t\ntagc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\TRAINING CAMP UTEC 2024\\Problemas\\adn.cpp","group":"local","local":true}

@@ -1,0 +1,58 @@
+snippet ifelse "C++ if-else statement" b
+if (${1:condition}) {
+    ${2:// code}
+} else {
+    ${3:// else code}
+}
+endsnippet
+
+snippet nl
+  \n
+endsnippet
+
+
+snippet debug "C++ for debugging" b
+#ifdef LOCAL
+#include "../debug/debug.cpp"
+#else
+#define dbg(...)
+#endif
+endsnippet
+
+snippet for "C++ for loop" b
+for (${1:int i = 0}; ${2:i < ${3:10}}; ${4:i++}) {
+    ${0:// code}
+}
+endsnippet
+
+snippet run "C++ template with solve function" b
+#include <bits/stdc++.h>
+
+typedef long long ll;
+#define sz(c) ((int)c.size())
+#define pb push_back
+#define fst first
+#define snd second
+#define forr(i,a,b) for(int i=(a); i<(b); i++)
+
+const int MAXN=100100;
+
+using namespace std;
+const long long MOD = 1e8 + 7;
+
+void solve() {
+    ${0:// code}
+}
+
+int main() {
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    int t = 1;
+    // cin >> t;
+
+    while (t--) {
+        solve();
+    }
+    return 0;
+}
+endsnippet

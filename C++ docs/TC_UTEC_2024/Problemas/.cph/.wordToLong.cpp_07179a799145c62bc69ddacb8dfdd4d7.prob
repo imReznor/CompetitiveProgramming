@@ -1,0 +1,1 @@
+{"name":"Local: wordToLong","url":"d:\\C++\\TRAINING CAMP UTEC 2024\\Problemas\\wordToLong.cpp","tests":[{"id":1723432547282,"input":"3\nqwerty\ntangamandapio\nblitzcoding","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\TRAINING CAMP UTEC 2024\\Problemas\\wordToLong.cpp","group":"local","local":true}

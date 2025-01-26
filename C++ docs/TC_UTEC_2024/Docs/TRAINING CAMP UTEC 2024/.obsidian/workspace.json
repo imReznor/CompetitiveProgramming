@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "524452fea20020e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9859398333c0c614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f3ea88f322d30f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROGRAMACIÓN DINÁMICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81660bd0c24382e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f47c654e27cfd93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d24ec7d4fb796d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2289668c82b9583",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f8d05aac2c8c647",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4f385b26cb1c190",
+    "type": "split",
+    "children": [
+      {
+        "id": "be965756cd5e136a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4ffe55ecc7c601f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROGRAMACIÓN DINÁMICA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a41c4316641f181",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PROGRAMACIÓN DINÁMICA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b43ba68e9c0c158c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d51188380afbc0df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROGRAMACIÓN DINÁMICA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9f3ea88f322d30f3",
+  "lastOpenFiles": [
+    "Introduccion-TC-UTEC-2024.pdf",
+    "ICPC___Presentacion_Programación_Dinámica.pdf",
+    "PROGRAMACIÓN DINÁMICA.md",
+    "Bienvenido.md"
+  ]
+}
