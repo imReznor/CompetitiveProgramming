@@ -23,6 +23,7 @@ void solve() {
 
      vector<int> v1 ={1,2,3,4,5,6,7};
      v1.push_back(8);
+
      dbg(v1);
      
     

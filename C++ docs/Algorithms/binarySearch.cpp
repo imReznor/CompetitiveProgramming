@@ -7,25 +7,33 @@ typedef long long ll;
 #define snd second
 #define forr(i,a,b) for(int i=(a); i<(b); i++)
 
-
 const int MAXN=100100;
-
-#ifdef LOCAL
-#include "../debug/debug.cpp"
-#else
-#define dbg(...)
-#endif
 
 using namespace std;
 const long long MOD = 1e8 + 7;
 
 void solve() {
-
-     vector<int> v1 ={1,2,3,4,5,6,7};
-     v1.push_back(8);
-     dbg(v1);
-     
     
+     int n; cin >> n;
+     int x; cin >> x;
+     vector<int> v(n);
+
+     forr(i,0,n) cin >> v[i];
+
+     int inicio = 0;
+     int final = sz(v) - 1;
+ 
+
+     while(inicio <= final){
+          int half = (inicio + final)/2;
+          if(v[half] == x) {
+               cout << "Posición: " << half << "\n";
+               return;
+          } 
+          else if (v[half] < x) inicio = half + 1;
+          else final = half - 1;
+
+     }
 
 }
 
